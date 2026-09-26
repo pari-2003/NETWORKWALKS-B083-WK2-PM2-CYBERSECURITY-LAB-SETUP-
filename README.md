@@ -73,14 +73,14 @@ All screenshots are in the `/screenshots` folder:
 
 ```
 screenshots/
-├── Screenshot_156.png   # WHOIS output
-├── Screenshot_157.png   # WhatWeb fingerprint
-├── Screenshot_158.png   # Nslookup DNS resolution
-├── Screenshot_159.png   # Curl -I HTTP headers
-├── Screenshot_160.png   # Wafw00f WAF detection
-├── Screenshot_161.png   # DNSRecon DNS records
-├── Screenshot_170.png   # Zenmap ping scan results
-└── net-top.pdf          # Zenmap network topology map
+├── Screenshot 1.png   # WHOIS output
+├── Screenshot_2.png   # WhatWeb fingerprint
+├── Screenshot_3.png   # Nslookup DNS resolution
+├── Screenshot_4.png   # Curl -I HTTP headers
+├── Screenshot 5.png   # Wafw00f WAF detection
+├── Screenshot 6.png   # DNSRecon DNS records
+├── Screenshot 7.png   # Zenmap ping scan results
+└── Screenshot 8.png   # Zenmap network topology map
 ```
 
 ---
