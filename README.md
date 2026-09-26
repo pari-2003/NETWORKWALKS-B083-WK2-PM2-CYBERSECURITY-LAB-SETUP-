@@ -57,8 +57,6 @@ All enumeration tools were run inside **Kali Linux on Oracle VirtualBox**. Zenma
 
 The full penetration testing report is available in this repository:
 
-📄 [`pentest_report_ahmed.docx`][(./pentest_report_ahmed.docx)](https://github.com/AhmaqAhmed/NETWORKWALKS-B083-WK2-PM2-CYBERSECURITY-LAB-SETUP/blob/main/pentest_report_ahmed.pdf)
-
 It covers:
 - Liability disclaimer
 - Introduction and methodology
